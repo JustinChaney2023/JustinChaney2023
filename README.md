@@ -2,7 +2,7 @@
 👨🏻‍💻 Software Engineer documenting my journey about learning in tech <br>
 👨🏻‍🎓 Studying Computer Science at the University of Alaska, Anchorage <br>
 🔭 I’m currently working at an Internship regarding AI! <br>
-🌱 I’m currently learning Python, and C++ <br>
+🌱 I’m currently learning Python, and C++, html, css, javascript, networking<br>
 <br>
 ![](https://github-readme-stats.vercel.app/api?username=JustinChaney2023&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
